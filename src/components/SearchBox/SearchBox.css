@@ -1,0 +1,11 @@
+.SearchBox {
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  width: 250px;
+  line-height: 30px;
+  margin-bottom: 30px;
+  font: inherit;
+  color: inherit;
+}
